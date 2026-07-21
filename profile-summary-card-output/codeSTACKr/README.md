@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/tkrtmy/tkrtmy/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
+```
+
+    
